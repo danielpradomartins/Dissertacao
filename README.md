@@ -1,16 +1,14 @@
 # Dissertacao
+O arquivo main.pdf trata-se da minha dissertação apresentada ao programa de 
+pós-graduação do Instituto de Física da Universidade
+Federal da Bahia (UFBA) como parte dos requisitos
+necessários à obtenção do título de Mestre em Física.
 
 Distribuições de probabilidade em sistemas
 Hamiltonianos: Hénon-Heiles e gases do tipo
 Lennard-Jones
 
 Orientador: Dr. Ernesto Pinheiro Borges
-
-Dissertação apresentada ao programa de 
-pós-graduação do Instituto de Física da Universidade
-Federal da Bahia (UFBA) como parte dos requisitos
-necessários à obtenção do título de Mestre em Física.
-
 
 A descrição estatística de sistemas dinâmicos, mais especificamente
 sistemas hamiltonianos com muitas partículas, como um gás ideal,
