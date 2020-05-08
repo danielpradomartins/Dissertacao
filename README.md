@@ -1,9 +1,10 @@
-# Dissertacao
+# Dissertação
 
 O arquivo main.pdf trata-se da minha dissertação apresentada ao programa de pós-graduação do Instituto de Física da Universidade Federal da Bahia (UFBA) como parte dos requisitos necessários à obtenção do título de Mestre em Física.
 
-#Distribuições de probabilidade em sistemas Hamiltonianos: Hénon-Heiles e gases do tipo Lennard-Jones
+# Distribuições de probabilidade em sistemas Hamiltonianos: Hénon-Heiles e gases do tipo Lennard-Jones
 
+## Daniel Prado Martins Fernandes
 ## Orientador: Dr. Ernesto Pinheiro Borges
 
 \begin{abstract}
