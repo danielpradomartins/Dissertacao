@@ -1,17 +1,12 @@
 # Dissertacao
 
-Distribuições de probabilidade em sistemas
-Hamiltonianos: Hénon-Heiles e gases do tipo
-Lennard-Jones
+O arquivo main.pdf trata-se da minha dissertação apresentada ao programa de pós-graduação do Instituto de Física da Universidade Federal da Bahia (UFBA) como parte dos requisitos necessários à obtenção do título de Mestre em Física.
 
-Orientador: Dr. Ernesto Pinheiro Borges
+#Distribuições de probabilidade em sistemas Hamiltonianos: Hénon-Heiles e gases do tipo Lennard-Jones
 
-Dissertação apresentada ao programa de 
-pós-graduação do Instituto de Física da Universidade
-Federal da Bahia (UFBA) como parte dos requisitos
-necessários à obtenção do título de Mestre em Física.
+## Orientador: Dr. Ernesto Pinheiro Borges
 
-
+\begin{abstract}
 A descrição estatística de sistemas dinâmicos, mais especificamente
 sistemas hamiltonianos com muitas partículas, como um gás ideal,
 é povoada de distribuições Gaussianas.
@@ -140,4 +135,4 @@ We examine the distribution of moments for this anomalous behavior.
 
 \end{abstract}
 
-}
+
